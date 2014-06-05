@@ -28,7 +28,7 @@ The format are the Bootstrap sizes. You can define it in the container classes.
 
     <div class="col-lg-9 col-md-8 col-sm-6 bs-slider bs-size-xs">
     
-So the slider will be only initialized in the XS size.
+So the slider will be only initialized in the XS size and will be destroyed in other size.
 
 Different size are:
     
