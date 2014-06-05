@@ -1,4 +1,9 @@
-bsSlider
+bsSlider - Columns to slider
 ========
 
-Bootstrap 3 mobile swipe slider
+bsSlider can transform Bootsrap 3 columns into a clean and swipable slider.
+
+Usage
+===
+
+  $('.bs-slider').bsSlider();
