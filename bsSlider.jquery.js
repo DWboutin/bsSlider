@@ -160,7 +160,7 @@
         };
 
         var reInitialize = function(){
-            thisEl.find(settings.slides).each(function(){
+            thisEl.removeAttr('style').find(settings.slides).each(function(){
 
                 var slide = $(this);
 
